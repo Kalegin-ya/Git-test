@@ -24,4 +24,5 @@ ul {
 p {
   font-size: 40px;
   background-color: rosybrown;
+  border: dotted 5px gold;
 }
